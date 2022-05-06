@@ -10,28 +10,25 @@ link-citations: yes
 description: "An adaptationist programme for digital work and life"
 ---
 
-# Screens  
+# Screen adaptation theory 
 
-![](./tree.png){width=4in}  
-This is the **prework** before we meet.
-
+![](./sat.png){width=4in}  
 
 ### Context {-}  
 
-[Nature deficit disorder](https://en.wikipedia.org/wiki/Nature_deficit_disorder) is an experiential hypothesis for behavioral ecology. It proposes that humans spending too little time outdoors are more likely to experience behavioral challenges and reductions in cognition and mental well-being. Richard Louv first developed these ideas formally in the book entitled ['Last child in the woods'](http://richardlouv.com/books/last-child) in 2008. A more recent and expansive book was published in 2012 entitled ['The nature principle'](http://richardlouv.com/books/nature-principle) and another in 2019 entitled ['Our wild calling'](http://richardlouv.com/books/). These works precipitated a movement to better support programs for outdoor activities for children and stimulated incredible (but not without controversy) scientific evidence that reconnecting with nature can enhance many performance measures in people - adult and children alike. Here, we can take a sensible perspective that tracking and enhancing simple interactions in natural systems, outdoors, like provides an opportunity to explore personal performance and develop new mental and emotional skills.  
+Screens are a portal to information and to one another. [Nearly 5 billion people as of 2022 use the internet](https://datareportal.com/global-digital-overview). Treating screens and digital time only as a pathology neglects the inherent capacity for screens as a tool to promote higher levels of performance and novel approaches to problem solving. [Mental models and the associated cognitive architecture](https://www.frontiersin.org/articles/10.3389/fpsyg.2017.01335/full) that we frame conceptually to decision making is critical for better choices. The screen adaptation theory (SAT) is proposed herein as a heuristic to enable individuals to use evidence and structured thinking in approaching screen time decisions.  
 
-There is excellent evidence in many domains of science that bridge human interaction theory with complex systems that active versus passive approaches generate different outcomes. The most effective interventions are often relatively more active, directed, and intentional depending on the field of study. Within the nature-deficit disorder framework, research that examines hands-on, active interactions with natural systems suggests that returns are significantly greater relative to passive approaches to natural systems. For instance, the Microbiome Rewilding Hypothesis (MRH) and Psycho-Evolutionary Restoration Hypothesis (PERH) suggests that nature-based health interventions that include people fixing nature (via planting, gardening, etc) generates reciprocal restoration feedbacks between the [people and the ecosystems](https://www.liebertpub.com/doi/full/10.1089/eco.2020.0003). This win-win science of reciprocity between other natural systems and the actions of people is relatively well established.  This is an opportunity to be mutualistically enhance two systems in need of support - you and the natural communities we inhabit and share. A simple eudaemonic feedback loop can begin with an examination of sustainability of life choices.   
+Screens are a place. Going to work, visiting friends, visiting the library, and many other key personal tasks and professional functions are done via screens. It can seem trivial, but labeling these choices, explicitly, provides a sense of coherence and purpose. Screens as a place also provides context and ecology. Adaptation is the sum of traits that an individual possesses or develops that promote survival or higher levels of relative performance without those traits. The goal must be to amplify and identify traits that mitigate the real costs of screens and tip the net sum to positive and higher levels of performance. Theory is a set of principles. Many discipline support screens as a place and an adaptationist programme for screen time use. Source theory and scientific evidence depending the on specific context and choice.    
 
 
 ### Learning outcomes {-}   
-1. Examine decisions that have impact globally.  
-2. Track smaller decisions that influence sustainability.  
-3. Explore whether changes that enhance sustainability can also promote deeper and more frequent connections with other natural systems.  
-4. Appreciate the limitations associated with existing and assumed norms.  
+1. Develop a new mental model for screen time.  
+2. Explore and track decisions associated with screen time.  
+3. Examine individual costs and benefits of screens.    
 
 
 ### Schedule {-} 
-Here is an outline of the challenges proposed to explore these principles over the course of several weeks. The first week is prework, second week is a deck and reflection on meaning and nature hacks, the third week is direct practice, and finally, the consolidation is a resolution or decision to commit some changes that are potential win-win scenarios.  
+Here is an outline of the challenges proposed to explore these principles in this course.    
 
 ```{r, warning=FALSE, message=FALSE, echo=FALSE}
 library(tidyverse)
@@ -48,18 +45,17 @@ Lortie, CJ (2021): Nature hacks for life. figshare. Book. https://doi.org/10.608
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.  
 
 ### Challenge time {-}  
-Do the [ecological footprint quiz](https://www.footprintcalculator.org/home/en).  
-Report your findings [here](https://forms.gle/s7wqpoFZh8ZJZPrz6).  
-Track frictions and points of resistance to your daily happiness and productivity.    
-Read this paper: [On sustainability interpretations of the Ecological Footprint.](https://www.sciencedirect.com/science/article/pii/S092180091930518X?casa_token=K0Ms5gASF7YAAAAA:1NgRSJdbMDvAqIV_yEgJKoscztxm6ktNod5m_sCbSm7NZfyRMwZd9hvcqZwQzPNF-0rBDUTJGiw)    
+Use [Google Scholar](https://scholar.google.com) and do a few search with screen time and .... for whatever personal challenge is most urgent. Screen time and memory or fatigue or focus or vision etc. Use the filter tool on the left to return hits from 2018 onwards.  
 
 
+Read screen adaptation theory at Ideas in Ecology and Evolution.  
+
+Track screen time use even cursorily. There are digital tools and functions included in the operating system of many devices. Or, go old school and have fun with it using a kitchen timer, stopwatch, or clock.  
 
 ### Reflection questions {-}  
-1. Did your assumptions about sustainable living reconcile with estimated global costing?  
-2. Are the decisions that drive footprint mostly 'big' or 'little' ones defined as large actions such as travel and trips or more by daily activities?  
-3. Did the concepts of biocapacity and ecological deficits resonante with your life decisions?  
-4. Are there individual or institutional-level changes that can be subtly nudged to increase capacity, capital, and resilience in sustainability?  
+1. Did any of the work associated with screen time resonate with your challenge? If so, did the evidence nudge or shift your model and thinking? 
+2. Do you use mental models for other dimensions of your life such as training, sleep, or performance?  Does your employer or team adopt models for performance?
+3. Did tracking confirm your assumptions on frequency and duration of screen time?  
 
 
 

@@ -1,15 +1,10 @@
-# Daily practice {#practice}  
+# Do nothing {#nothing}  
 
-![](./practice.png){width=3in}   
+![](./nothing.png){width=3in}   
 
 ### Context {-}  
-Practice makes permanent. Extensive evidence suggests that short duration, high frequency interventions in outdoor, experiential physical practice produce the most consistent and significant returns in [cognition and in health](https://www.tandfonline.com/doi/full/10.1080/02640414.2020.1794763). Here, we explore at least three of the frameworks open to innovation for boosts in performance cognitively and emotionally.   
+Doing nothing is an active process. It is not easy to 'do' at all.
 
-[Passive outdoor time](https://www.nature.com/articles/s41598-019-44097-3) can include observation, sitting, and breath work. This category can also include taking calls outside or outdoor meetings. Nature can become the backdrop, and it is not necessarily the primary focus.   
-
-Active outdoor interactions can include observation similar to passive but directs attention to better mapping and [identifying with natural complexity](https://ellisonchair.tamu.edu/health-and-well-being-benefits-of-plants/). Typically, attention is directed to the natural systems. The natural system is the focus.   
-
-[Green exercise](https://www.tandfonline.com/doi/abs/10.1080/09603120500155963) is doing a [short physical activity outdoors](https://pubmed.ncbi.nlm.nih.gov/22480735/) as a mechanism to either restore or prime cognition and creativity. It can also dramatically enhance [emotional wellbeing](https://www.mdpi.com/1660-4601/16/6/937). The focus is split between interacting with the natural environment and the activity.      
 
 ### Learning outcomes {-}  
 1. Explore some of the hacks [suggested previously](https://figshare.com/articles/presentation/Nature_hacks_for_life/16878808) in this course of study.     

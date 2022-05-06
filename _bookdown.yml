@@ -1,0 +1,6 @@
+book_filename: "tools4screens"
+delete_merged_file: true
+language:
+  ui:
+    chapter_name: "Challenge "
+output_dir: "docs"

@@ -3,7 +3,14 @@
 ![](./rules.png){width=3in}   
 
 ### Context {-}  
-Rules help.       
+Rules help. Individually, simple rules can support [emotional regulation](https://psycnet.apa.org/doiLanding?doi=10.1037%2Fcap0000142) and belief. [Ten simple rules can be a magic number in science](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006670), and this format of paper has been an incredibly successful medium for best practices and sharing expertise. Make, use, plan, and use data were the most common themes in the first 100 papers  of work in using this heuristic model published in PLOS Computational Biology. [Ten simple rules for more objective decision-making](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007706) is a compelling and relevant examplar that supports structured decision making for screen time use. Break into smaller parts, mitigate bias, transparency, beware cognitive dissonance are salient principles for screen time. Here, rules are proposed specific to screen time use using [principles for simple rules](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003858) including have ten, have a vision, and support with research as needed.  
+Blo
+```{r, warning=FALSE, message=FALSE, echo=FALSE}
+library(tidyverse)
+rules <- read_csv("./rules.csv")
+knitr::kable(rules, booktabs = TRUE)
+
+```
 
 
 

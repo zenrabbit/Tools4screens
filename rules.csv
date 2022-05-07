@@ -1,11 +1,11 @@
-rule,focus,description
-1,Set intention,state purpose for every screen time action; never fill time with screens
-2,Track time,just a minute never happens; track time with some precision
-3,Consider attention,"attention and perception are intimately linked; be mindful of how you spend attention whilst on a screen such as a video call, skip multi-tasking"
-4,Block work,"label and block work, cognitive task switching is costly"
-5,Plan breaks,"consider the 20-20-2- rule; i.e. every 20 mins, "
-6,,
-7,,
-8,,
-9,,
-10,,
+rule,focus,description,evidence
+1,Set intention,state purpose for every screen time action; never fill time with screens,Screen time and young children: Promoting health and development in a digital world
+2,Track time,just a minute never happens; track time with some precision,How Sedentary Are University Students? A Systematic Review and Meta-Analysis
+3,Manage attention,"attention and perception are intimately linked; be mindful of how you spend attention whilst on a screen such as a video call, skip multi-tasking",How to do nothing: resisting the attention economy and Minds and brains of media multitaskers
+4,Block work,"label and block work, cognitive task switching is costly",Deep Work: Rules for Focused Success in a Distracted World and The Impact of Digital Text
+5,Plan breaks,"every 20 minutes, take 20 seconds to look 20 feet away","Digital eye strain: prevalence, measurement and amelioration"
+6,Weigh costs and benefits,"Transparently assess the potential costs and benefits of a specific task, function, or activity on a screen versus an alternative","The Affect Heuristic in Judgments of Risks and Benefits and Effects of Excessive Screen Time on Neurodevelopment, Learning, Memory, Mental Health, and Neurodegeneration: a Scoping Review"
+7,Include collaboration,Synchronous online interactions are more effective in most instances,"Learning and Satisfaction in Webinar, Online, and Face-to-Face Instruction: A Meta-Analysis and The Role of Collaboration, Computer Use, Learning Environments, and Supporting Strategies in CSCL: A Meta-Analysis "
+8,Plan space,"Real space matters; some spaces are conductive to deep work, others collaboration, others diffuse ideation",Nomadic work and location independence: The role of space in shaping the work of digital nomads 
+9,Experiment,Experiment with your screen time and green time with physical activity to boost performance,Physical activity and screen time of children and adolescents before and during the COVID-19 lockdown in Germany: a natural experiment and How can physical activity be enhanced through digital rewards?: An experiment where number of steps is rewarded with social media screen time
+10,Set rules,"Set rules for screen time use that work for you, your team, and your family; include rewards and positive alternatives; stack positive micro-habits",A Goal-Theoretic Framework for Parental Screen-Time Monitoring Behavior and Ten simple rules for more objective decision-making and Micro-habits for life-long learning
